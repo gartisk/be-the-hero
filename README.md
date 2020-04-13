@@ -15,15 +15,15 @@
 ---
 
 ### Semana Omnistack 11.0 da RocketSeat
-Criação do Aplicação Web/Mobile para conectar Ongs e pessoas interessadas em ajudar em determinada causa.
+Aplicação Web/Mobile para conectar ONGs e ~~pessoas~~ heróis interessados em ajudar.
 
-### Instalando Dependencias
+### Instalando as Dependências
 *Execute o comando abaixo nas pastas **backend**, **frontend** e **mobile**.*
 ```bash
 $ npm install 
 ```
 
-### Executando a Aplicação 
+### Inicializando a Aplicação 
 *Execute o comando abaixo nas pastas **backend**, **frontend** e **mobile**.*
 ```bash
 $ npm start
@@ -36,6 +36,7 @@ $ npm test
 ```
 
 ### Acessando a Aplicação
+*Após inicializar a aplicação, acesse através dos seguintes endereços:*
 
 #### Backend
 
@@ -45,7 +46,7 @@ $ npm test
     http://localhost:3000
 
 #### Mobile
-*Acesse a aplicação utilizando o **Expo** na Url.*
+*Acesse a aplicação utilizando o **Expo** na Url:*
 
     http://localhost:19002
    
