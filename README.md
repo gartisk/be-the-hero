@@ -64,6 +64,10 @@ $ npm test
 ***License***: [MIT](LICENSE)
 
 ---
+
 <h4 align="center">
-<em>&lt;/:heart:&gt;</em> by <a href="https://github.com/gartisk" target="_blank">Gartisk</a>
+<em>&lt;/&gt;</em> by <a href="https://github.com/gartisk" target="_blank">Gartisk</a>
 </h4>
+<p align="center">
+<img src="https://octodex.github.com/images/ironcat.jpg" alt="The Iron Cat" width="120">
+</p>
