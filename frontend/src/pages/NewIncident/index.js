@@ -5,8 +5,7 @@ import './styles.css';
 
 import api from '../../services/api';
 
-// import logoImg from '../../assets/logo.svg';
-// import heroesImg from '../../assets/heroes.png';
+import logoImg from '../../assets/logo.svg';
 
 export default function NewIncident() {
     const [title, setTitle] = useState('');
@@ -43,7 +42,7 @@ export default function NewIncident() {
         <div className="new-incident-container">
             <div className="content">
                 <section>
-                    {/* <img src={logoImg} alt="Be The Hero"/> */}
+                    <img src={logoImg} alt="Be The Hero"/>
 
                     <h1>Cadastro novo caso</h1>
                     <p>Descreve o caso detalhadamente para encontrar um herói para resolver isso.</p>

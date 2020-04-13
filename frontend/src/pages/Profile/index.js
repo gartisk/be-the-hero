@@ -7,8 +7,7 @@ import api from '../../services/api';
 
 import './styles.css';
 
-// import logoImg from '../../assets/logo.svg';
-// import heroesImg from '../../assets/heroes.png';
+import logoImg from '../../assets/logo.svg';
 
 export default function Profile() {
     const [incidents, setIncidents] = useState([]);
@@ -51,7 +50,7 @@ export default function Profile() {
     return (
         <div className="profile-container">
             <header>
-                {/* <img src={logoImg} alt="Be The Hero"/> */}
+                <img src={logoImg} alt="Be The Hero"/>
                 <span>Bem vinda, {ongName}</span>
 
                 <Link className="button" to="/incidents/new">
