@@ -1,8 +1,8 @@
-<h2 align="center">
+<h4 align="center">
   <a href="/">
     <img alt="" title="" src="./images/logo.svg">
   </a>
-</h2>
+</h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
@@ -12,43 +12,45 @@
   </a>
 </p>
 
-## Semana Omnistack 11.0 da RocketSeat
+---
+
+### Semana Omnistack 11.0 da RocketSeat
 Criação do Aplicação Web/Mobile para conectar Ongs e pessoas interessadas em ajudar em determinada causa.
 
-## Instalando Dependencias
+### Instalando Dependencias
 *Execute o comando abaixo nas pastas **backend**, **frontend** e **mobile**.*
 ```bash
 $ npm install 
 ```
 
-## Executando a Aplicação 
+### Executando a Aplicação 
 *Execute o comando abaixo nas pastas **backend**, **frontend** e **mobile**.*
 ```bash
 $ npm start
 ```
 
-## Executando Testes Unitários e Integração
+### Executando Testes Unitários e Integração
 *Execute o comando abaixo na pasta **backend**.*
 ```bash
 $ npm test
 ```
 
-## Acessando a Aplicação
+### Acessando a Aplicação
 
-### Backend
+#### Backend
 
     https://localhost:3333
 
-### Web
+#### Web
     http://localhost:3000
 
-### Mobile
+#### Mobile
 *Acesse a aplicação utilizando o **Expo** na Url.*
 
     http://localhost:19002
    
 
-## Outras Informações
+### Outras Informações
 
 ***Stack***: React, React Native, NodeJS e SQLite
 
@@ -63,5 +65,5 @@ $ npm test
 
 ---
 <h4 align="center">
-<em>&lt;/:heart&gt;:</em> by <a href="https://github.com/gartisk" target="_blank">Gartisk</a>
+<em>&lt;/:heart:&gt;</em> by <a href="https://github.com/gartisk" target="_blank">Gartisk</a>
 </h4>
